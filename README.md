@@ -1,6 +1,6 @@
 # 2023WXH-SoulAvatars
 
-SoulAvatars is an AI-powered protocol/platform that allows NFT holders to have realistic conversations with their NFTs, bringing these digital artworks to life through personalized interactions.
+SoulAvatars is an AI-powered protocol that allows NFT holders to have realistic conversations with their NFTs, bringing these digital artworks to life through personalized interactions.
 
 ### Problems & Solution
 
